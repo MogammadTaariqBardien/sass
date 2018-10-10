@@ -16,5 +16,9 @@ Sass is a script way of css, which allows for the easier for use of css and link
 - Create a .scss file.
 - Link your index.html file to the css sheet. 
 
+## Change Log
+ 2018-10-10
+ - Inserted partials
+
 ## Website Link
 https://mogammadtaariqbardien.github.io/sass/index.html

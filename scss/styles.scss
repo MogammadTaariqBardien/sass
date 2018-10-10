@@ -1,28 +1,3 @@
-/* Defining variables for sass */
 
-/* one line comments*/
-
-/* This is multi line
-comment */
-
-/*VARIABLES */
-
-$primary-color: #bada55;
-$fone-size1: 3.125em;
-$fone-size2: 2.125em;
-$text-color: #f0f;
-
-// BASE STYLES
-
-body {
-    background-color: $primary-color;
-
-    h1{
-        font-size: $fone-size1;
-    }
-
-    p{
-        font-size: $fone-size2;
-        color: $text-color;
-    }
-}
+@import 'partials/base';
+@import 'partials/variables';

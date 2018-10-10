@@ -1,14 +1,12 @@
-/* Defining variables for sass */
-/* one line comments*/
-/* This is multi line
-comment */
 /*VARIABLES */
 body {
-  background-color: #bada55; }
+  background-color: white; }
   body h1 {
     font-size: 3.125em; }
   body p {
     font-size: 2.125em;
-    color: #f0f; }
+    color: black; }
+
+/*VARIABLES */
 
 /*# sourceMappingURL=styles.css.map */
