@@ -1,0 +1,23 @@
+body{
+    .main-header{
+        background-color: teal;
+        img{
+            width: 120px;
+            height: 120px;
+            padding: 0;
+            margin: 0;
+        }
+    }
+
+    .primary-content{
+        background-color: aquamarine;
+    }
+    img{
+        align-self: center;
+        border-radius: 20%;
+        margin-left: 350px;
+        padding-top: 20px;
+
+    }
+
+}
