@@ -97,5 +97,7 @@ body .main-footer {
     color: #F0F7F4; }
   body .main-footer a {
     color: #F0F7F4; }
+  body .main-footer a:hover {
+    color: #510D0A; }
 
 /*# sourceMappingURL=styles.css.map */
