@@ -19,6 +19,9 @@ Sass is a script way of css, which allows for the easier for use of css and link
 ## Change Log
  2018-10-10
  - Inserted partials
+ 2018-10-12
+ - Changed Styling
+ - Added images
 
 ## Website Link
 https://mogammadtaariqbardien.github.io/sass/index.html
